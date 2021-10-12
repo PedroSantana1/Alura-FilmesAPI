@@ -7,13 +7,7 @@
 ## 💻 Project
 
 <div align="center">
-  Project developed during the courses of the alura that follow below that lasted a total of 16 hours.
-  <br>
-  <br>
-  <img alt="Alura" src="https://cdn.discordapp.com/attachments/547492245897478164/887764872174116884/unknown.png" width="400px">
-  <br>
-  <br>
-  <img alt="Alura" src="https://cdn.discordapp.com/attachments/547492245897478164/887764561036443708/unknown.png" width="400px">
+  Project developed during the courses of the alura that lasted a total of 26 hours.
 </div>
 
 ## 🧪 Technologies
